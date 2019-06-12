@@ -12,9 +12,10 @@ redirect_from:
 
 ***
 # Education
-* B.S. in Physics (Honor), Zhiyuan Colledge, Shanghai Jiao Tong University, 2021 (expected)
-  * GPA: 3.73/4.30 rank: 13/28
-  
+* **B.S.** in Physics (Honor), Zhiyuan Colledge, Shanghai Jiao Tong University, 2021 (expected)
+  * GPA: 3.73/4.30 rank: 13/28.
+  * Zhiyuan Honor scholarship 2017, 2018 (twice).
+* Middle School Attached to Northwestern Polytechnical University, 2014-2017.
 
 # Research project
 * Spring 2019: Research Assistant
