@@ -10,14 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+***
+# Education
 * B.S. in Physics (Honor), Zhiyuan Colledge, Shanghai Jiao Tong University, 2021 (expected)
   * GPA: 3.73/4.30 rank: 13/28
   
 
-Research project
-======
+# Research project
 * Spring 2019: Research Assistant
   * Shanghai Jiaotong University
   * Project: The nanotubes superlattices on hBNs surface.
@@ -29,8 +28,7 @@ Research project
   * Project: The time-dependent DFT.
   * Supervisor: Professor Lei Zhang
 
-Research Interests:
-======
+# Research Interests:
 
 <!-- Skills
 ======
