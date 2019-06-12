@@ -12,24 +12,26 @@ redirect_from:
 
 ***
 ## Education
-* **B.S.** in Physics (Honor), Zhiyuan Colledge, Shanghai Jiao Tong University, 2021 (expected)
+* **B.S.** in Physics (Honor), Zhiyuan College, Shanghai Jiao Tong University, 2021 (expected)
   * GPA: 3.73/4.30 rank: 13/28.
   * Zhiyuan Honor scholarship 2017, 2018 (twice).
 * Middle School Attached to Northwestern Polytechnical University, 2014-2017.
 
 ## Research project
 * Spring 2019: Research Assistant
-  * Shanghai Jiaotong University
+  * Shanghai Jiao Tong University.
   * Project: The nanotubes superlattices on hBNs surface.
   * Co-workers: Chengyang Xu.
-  * Supervisor: Professor Weidong Luo
+  * Supervisor: Professor Weidong Luo.
 
 * Summer 2019: Research Assistant (expected)
-  * Shanghai Jiaotong University
+  * Shanghai Jiao Tong University.
   * Project: The time-dependent DFT.
-  * Supervisor: Professor Lei Zhang
+  * Supervisor: Professor Lei Zhang.
 
-## Research Interests:
+## Research interests
+* **Condensed Matter Physics**: DFT Calculations, Multi-body physics, Magnetism.
+* **Mathematical Physics**: Dynamic Systems, PDEs.
 
 <!-- Skills
 ======
