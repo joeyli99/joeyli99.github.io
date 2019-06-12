@@ -5,42 +5,49 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /bio
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in Physics, Shanghai Jiao Tong University, 2021 (expected)
-
-Research experience
-======
-* Summer 2018: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* B.S. in Physics (Honor), Zhiyuan Colledge, Shanghai Jiao Tong University, 2021 (expected)
+  * GPA: 3.73/4.30 rank: 13/28
   
-Skills
+
+Research project
 ======
-* Skill 1
+* Spring 2019: Research Assistant
+  * Shanghai Jiaotong University
+  * Project: The nanotubes superlattices on hBNs surface.
+  * Co-workers: Chengyang Xu.
+  * Supervisor: Professor Weidong Luo
+
+* Summer 2019: Research Assistant (expected)
+  * Shanghai Jiaotong University
+  * Project: The time-dependent DFT.
+  * Supervisor: Professor Lei Zhang
+
+Research Interests:
+======
+
+<!-- Skills
+======
+* English 
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -50,8 +57,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
