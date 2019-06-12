@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Contact"
+title: "Contact Information"
 permalink: /contact/
 author_profile: true
 ---
 
-# Contact information
 Zhiyuan Colledge\\
 No. 6 Science Building\\
 Shanghai Jiaotong University, 200240\\
