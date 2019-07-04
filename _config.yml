@@ -122,7 +122,8 @@ include:
   - .htaccess
   - _pages
   - files
-  - image
+  - images
+  - images/2019_post_images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
