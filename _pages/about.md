@@ -19,4 +19,4 @@ redirect_from:
 * **Mathematical Physics**: Dynamic Systems, PDEs.
 
 ## Just For Fun
-[Tetris](/_includes/tetris.html)
+[Tetris](tetris/tetris.html)

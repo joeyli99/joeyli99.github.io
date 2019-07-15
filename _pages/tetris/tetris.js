@@ -256,7 +256,7 @@ var moveDown = function()
                 localStorage.removeItem("curScore");        // 清空Local Storage当前积分值
                 localStorage.removeItem("tetris_status");   // 清空Local Storage当前游戏状态
                 localStorage.removeItem("curSpeed");        // 清空Local Storage当前速度
-                if(confirm("您已经输了，是否参与排名"))     //confirm对话框提示游戏结束
+                if(confirm("You loss, would you want to record this score?"))     //confirm对话框提示游戏结束
                 {
                     // 读取Local Storage里面maxsScore记录
                     maxScore = localStorage.getItem("maxScore");
