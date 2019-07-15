@@ -17,3 +17,6 @@ redirect_from:
 ## Research interests
 * **Condensed Matter Physics**: DFT Calculations, Multi-body physics, Magnetism.
 * **Mathematical Physics**: Dynamic Systems, PDEs.
+
+## Just For Fun
+[Tetris](/_includes/tetris.html)

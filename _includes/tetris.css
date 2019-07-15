@@ -1,0 +1,28 @@
+@font-face{
+    font-family:tmb;
+    src:url("DS-DIGIB.TTF") format("TrueType");
+}
+
+div{
+    font-size: 15pt;
+    padding-bottom: 4px;
+}
+span{
+    font-family: tmb;
+    font-size: 15pt;
+}
+body{
+    background-color: rgb(255, 255, 255);
+} 
+.blue{
+    width: 400px;
+    border: 1px solid black;
+    background-color: #99FCFF;
+}
+.speedscore{
+    float: left;
+}
+
+.maxscore{
+    float: right;
+}
