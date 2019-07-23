@@ -20,7 +20,7 @@ redirect_from:
 ## Research project
 * Spring 2019: Research Assistant
   * Shanghai Jiao Tong University.
-  * Project: The nanotubes superlattices on hBNs surface.
+  * Project: The nanotubes-hBN superlattices.
   * Co-workers: Chengyang Xu.
   * Supervisor: Professor Weidong Luo.
 
