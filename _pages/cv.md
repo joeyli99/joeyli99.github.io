@@ -12,26 +12,45 @@ redirect_from:
 
 ***
 ## Education
-* **B.S.** in Physics (Honor), Zhiyuan College, Shanghai Jiao Tong University, 2021 (expected)
-  * GPA: 3.73/4.30 rank: 13/28.
-  * Zhiyuan Honor scholarship 2017, 2018 (twice).
+* **B.Sc.** in Physics (Honor), Zhiyuan College, Shanghai Jiao Tong University, June 2021 (expected)
+  * GPA: 3.73/4.30 rank: 10/28.
+  * Zhiyuan Honor scholarship 2017, 2018, 2020(expected).
 * Middle School Attached to Northwestern Polytechnical University, 2014-2017.
 
 ## Research project
-* Spring 2019: Research Assistant
+* Fall 2018-Spring 2019: Research Assistant
+  * Shanghai Jiao Tong University.
+  * Project: Berry Curature and Chern number in graphene.
+  * Supervisor: Prof. Weidong Luo.
+
+* Summer 2019: Lab Assistant
+  * Shanghai Jiao Tong University.
+  * Project: The time-dependent DFT.
+  * co-workers: Tianli Liu
+  * Supervisor: Professor Lei Zhang.
+
+* Summer 2019: Research Assistant (terminated)
+  * Shanghai Jiao Tong University.
+  * Project: The time-dependent DFT.
+  * Supervisor: Prof. Lei Zhang.
+
+* Falls 2019: Research Assistant
   * Shanghai Jiao Tong University.
   * Project: The nanotubes-hBN superlattices.
   * Co-workers: Chengyang Xu.
-  * Supervisor: Professor Weidong Luo.
+  * Supervisor: Prof. Weidong Luo.
 
-* Summer 2019: Research Assistant (expected)
-  * Shanghai Jiao Tong University.
-  * Project: The time-dependent DFT.
-  * Supervisor: Professor Lei Zhang.
+## Teaching Assistant:
+* Spring 2020: Introduction to Computational Physics.
+  [Course Homepage](https://oc.sjtu.edu.cn/courses/19339)
+* Fall 2020: Spring 2020: Mathmatical Methods in Physics(II).
+  [Course Homepage](https://oc.sjtu.edu.cn/courses/24908)
+
+
 
 ## Research interests
-* **Condensed Matter Physics**: DFT Calculations, Multi-body physics, Magnetism.
-* **Mathematical Physics**: Dynamic Systems, PDEs.
+* **Condensed Matter Physics**
+* **Mathematical Physics**
 
 <!-- Skills
 ======
