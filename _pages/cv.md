@@ -43,7 +43,7 @@ redirect_from:
 ## Teaching Assistant:
 * Spring 2020: Introduction to Computational Physics.
   [Course Homepage](https://oc.sjtu.edu.cn/courses/19339)
-* Fall 2020: Spring 2020: Mathmatical Methods in Physics(II).
+* Fall 2020: Mathmatical Methods in Physics(II).
   [Course Homepage](https://oc.sjtu.edu.cn/courses/24908)
 
 
