@@ -8,7 +8,7 @@ date: 2020-02-01
 location: "Shanghai, China"
 ---
 
-# Description 
+## Description 
 This course is about basic numerical methods and their applications in physics.
 
 Due to COVID-19, courses will be hold online. The zoom meeting number and password has been sent by mail.
