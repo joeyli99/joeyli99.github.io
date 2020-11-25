@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-+ I'm an undergraduate student in Physics Department, [Zhiyuan Colledge](https://zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https:sjtu.edu.cn/) . Zhiyuan Colledge provides an honor undergraduate program which selects students with high academic records and enthusiasm in the basic science.
-+ I major in physics and my research interests include the **Condensed Matter Physics**, **Computational Physics**, **Mathematical Physics**,**Cosmology**.
++ I'm an undergraduate student in the Physics Department, [Zhiyuan Colledge](https://zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https:sjtu.edu.cn/). Zhiyuan Colledge provides an honor undergraduate program that selects students with high academic records and enthusiasm in basic science.
++ I major in physics and my research interests include **Condensed Matter Physics**, **Computational Physics**, **Mathematical Physics**, **Cosmology**.
 + I'm working in Prof. [Weidong Luo](http://www.physics.sjtu.edu.cn/wdluo) 's Group on properties of material like carbon nanotubes, hBNs, and magnetic materials. 
-+ I'm also working with Prof. [Lei Zhang](https://ins.sjtu.edu.cn/people/lzhang/home.html) around the DFT theory(terminated).
-+ I'm preparing for applying for a physics graduated programs 2021. If you are interesting, please look my CV.
-
++ Now I'm preparing my Bachelor thesis: The CNT-hBN superlattices.
++ I'm preparing to apply for a physics graduate program in 2021. I want to study gravity and cosmology in graduate research. If you are interesting, please look at my CV. 
+  
 ## Research interests
 * **Condensed Matter Physics**: DFT Calculations, Magnetism.
-* **Mathematical Physics**: Dynamic Systems, PDEs.
+
 
 ## Just For Fun
 [Tetris](tetris/tetris.html)
