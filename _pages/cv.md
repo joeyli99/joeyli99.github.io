@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF here](/files/cv.pdf)
+
 ***
 ## Education
 * **B.Sc.** in Physics (Honor), Zhiyuan College, Shanghai Jiao Tong University, June 2021 (expected)
@@ -25,7 +27,7 @@ redirect_from:
 
 * Summer 2019: Lab Assistant
   * Shanghai Jiao Tong University.
-  * Project: The time-dependent DFT.
+  * Project: NbSe2 superconductors
   * co-workers: Tianli Liu
   * Supervisor: Professor Lei Zhang.
 
